@@ -3,7 +3,7 @@
 
 ---
 ## GitHub
-[GitHub](https://github.com/hamitmizrak/senior-fullstack-developer1.git)
+[GitHub](https://github.com/hamitmizrak/Offline-Spring_Boot-Junit)
 
 git clone https://github.com/hamitmizrak/senior-fullstack-developer1.git
 
