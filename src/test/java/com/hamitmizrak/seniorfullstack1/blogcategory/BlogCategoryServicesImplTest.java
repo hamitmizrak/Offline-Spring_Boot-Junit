@@ -30,6 +30,18 @@ public class BlogCategoryServicesImplTest implements IBlogCategoryTest {
     // 3-Doğrulama(Assertion): Test Sonuçlarını doğrular
     // 4-Temizlik (Teardown):  Testten sonra gerekli temizlik işlemlerini yapar.
 
+    /*
+     ### Zengin Assert Metotları
+    JUnit, test sonuçlarını doğrulamak için çeşitli assert metotları sağlar. 
+    Bu metotlar, beklenen ve gerçek sonuçları karşılaştırarak testlerin başarılı olup olmadığını belirler.
+    assertEquals(expected, actual):** İki değerin eşit olup olmadığını kontrol eder.
+    assertTrue(condition):** Koşulun doğru olup olmadığını kontrol eder.
+    assertFalse(condition):** Koşulun yanlış olup olmadığını kontrol eder.
+    assertNull(object):** Nesnenin null olup olmadığını kontrol eder.
+    assertNotNull(object):** Nesnenin null olmadığını kontrol eder.
+    assertArrayEquals(expectedArray, actualArray):** İki dizinin eşit olup olmadığını kontrol eder.
+  */
+
     // Variable
     private BlogCategoryEntity blogCategoryEntity;
 
